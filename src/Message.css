@@ -1,0 +1,19 @@
+.message {
+  margin: 10px;
+  width: fit-content;
+}
+
+.message-user {
+  margin: 10px;
+  width: fit-content;
+  margin-left: auto;
+  text-align: left !important;
+}
+
+.message-user-card {
+  background-color: lightblue !important;
+}
+
+.message-gues-card {
+  background-color: white !important;
+}
